@@ -1,4 +1,4 @@
-# 🌊 Watercall Solutions - Sistema de Monitoramento de Reservatório Contra Enchentes
+# 🌊 Watercall Solutions - Sistema de Monitoramento de Reservatório Contra EnchentesAdd commentMore actions
 
 ## 📌 Descrição do Problema
 
@@ -73,7 +73,8 @@ O sistema utiliza um **sensor ultrassônico HC-SR04** para medir a distância da
 
 ## 🖼️ Esquema do Circuito
 
-![Esquema de montagem]([./imagens/circuito.png](https://github.com/user-attachments/assets/f7985c60-a6a9-4f88-9635-1bea8e4bc75d))
+![Esquema de montagem](![Global Solution - Edge Computing](https://github.com/user-attachments/assets/f7985c60-a6a9-4f88-9635-1bea8e4bc75d)
+)
 
 ---
 ## 🏢 Sobre a Empresa
