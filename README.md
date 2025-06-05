@@ -29,17 +29,14 @@ O sistema utiliza um **sensor ultrassônico HC-SR04** para medir a distância da
 
 ---
 
-## 🧪 Simulação do Projeto no Wokwi
+## 🧪 Simulação do Projeto no TinkerCad
 
-![Sistema pronto](![Código no Wokwi](https://wokwi.com/projects/SEU_LINK_AQUI](https://www.tinkercad.com/things/baqUQUgbciy-global-solution-edge-computing/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fcircuits)
-
+👉 **[Clique aqui para acessar a simulação](https://www.tinkercad.com/things/baqUQUgbciy-global-solution-edge-computing)**
 
 **Como usar:**
 1. Clique em “Start Simulation”
 2. Veja o volume no display LCD e os LEDs mudando conforme o nível
 3. Edite a distância manualmente no sensor para simular variações
-
-
 
 ---
 
