@@ -45,6 +45,7 @@ O sistema utiliza um **sensor ultrassônico HC-SR04** para medir a distância da
 📽️ Assista ao funcionamento completo do sistema:
 
 [![Assista no YouTube](https://www.youtube.com/watch?v=o-YUa1AFCP0)]
+[![Assista no YouTube](https://img.youtube.com/vi/o-YUa1AFCP0/0.jpg)](https://www.youtube.com/watch?v=o-YUa1AFCP0)
 
 ---
 
